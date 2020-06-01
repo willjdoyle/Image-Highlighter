@@ -42,22 +42,22 @@ For .gif's, the following output will display to console with no input necessary
 For .jpg's, .png's, and .tiff's, the output will be a MATLAB figure with the appropriately highlighted image.
 For .gif's, the output will be a slideshow of each frame in the MATLAB Movie Player.
 
-### Issues
+## Issues
 
-## Issue Templates
+### Issue Templates
 To submit a bug report or request a feature, please use the templates located in [template folder](.github/ISSUE_TEMPLATE).
 
-## Known Issues
+### Known Issues
 There is currently a known problem that can occur with .gif's where certain frames may be dropped because there is an error reading them. I am currently investigating this and it will be addressed in the v1.2.
 
-### Versioning
+## Versioning
 
 Image Highlighter is currently on v1.1. A full changelog can be found in the Dev Roadmap in the Projects tab.
 
-### Authors
+## Authors
 
 Image Highlighter was developed in its entirity by William Doyle.
 
-### Licsense
+## License
 
-This project is licensed under the GNU AGPL v3.0 License. Please see [LICENSE.md](LICENSE.md) for more details.
+This project is licensed under the GNU AGPL v3.0 License. Please see [LICENSE](LICENSE) for more details.
